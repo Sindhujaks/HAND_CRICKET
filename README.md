@@ -1,1 +1,4 @@
 # HAND_CRICKET
+This project is a hand-cricket simulation game built in Python. It mimics the real-world game where a player competes against the computer. I implemented a simple toss mechanism using random numbers, followed by two innings of gameplay where players bat or bowl. During batting, the player's input is compared to a random number from the computer, and runs are added unless the numbers match, which results in the player being 'out.' The second innings is all about defending or chasing a target score set in the first innings.
+
+The logic is built using Python’s control flow structures like loops and conditionals, and I utilized the random module to simulate the unpredictability of the toss and match outcomes. It's a fun, interactive project that highlights how randomization and game logic can be combined to create engaging user experiences.
